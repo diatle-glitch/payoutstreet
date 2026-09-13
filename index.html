@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Payout Street — The Receiving Yard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <small>from <b>OnTheTape</b></small>
+      <strong>PAYOUT<em>STREET</em></strong>
+    </a>
+    <nav class="nav">
+      <a href="yard.html">The yard</a>
+      <a href="manifest.html">Manifest</a>
+      <a href="method.html">How it works</a>
+      <time id="utc"></time>
+      <a class="cta" href="plate.html">Bolt a plate · $9/mo</a>
+    </nav>
+  </header>
+  <section class="hero">
+    <img src="img/yard-night.jpg" alt="Night receiving yard with payout crates" />
+    <div class="veil"></div>
+    <div class="copy">
+      <div class="kicker">From OnTheTape · a receiving yard for observed payouts</div>
+      <h1>Payouts arrive<br>as <em>crates.</em></h1>
+      <p>Not a city you buy. A dock where the tape is unloaded. Stack height is observed volume. Strap color is how we know. A plate on the bay door is the only thing for sale — and it never moves the stack.</p>
+      <div class="row">
+        <a class="btn lime" href="method.html">How a crate is stacked</a>
+        <a class="btn ghost" href="yard.html">Walk the yard</a>
+      </div>
+    </div>
+  </section>
+  <div class="stats" id="stats"></div>
+  <section class="band">
+    <div class="split">
+      <img src="img/crate-and-plate.jpg" alt="Crate stack beside a bay plate" />
+      <div>
+        <div class="kicker">01 · Two objects</div>
+        <h2>The stack is the tape.<br><em>The plate is the ad.</em></h2>
+        <p>Every verified payout OnTheTape can see is a crate on that firm’s bay. Chain strap = public ledger. Gold strap = payment rail. Grey strap = community report. Nobody can buy a taller stack.</p>
+        <ul class="rule">
+          <li><b>Crate</b> — observed ticket. Height only grows when the tape moves.</li>
+          <li><b>Plate</b> — $9 a month to bolt a name on the door. Revocable. Not rank.</li>
+          <li><b>Manifest</b> — the same list, without pictures. Still unpaid.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <section class="band">
+    <div class="split reverse">
+      <div>
+        <div class="kicker">02 · The model</div>
+        <h2>Rent the door.<br><em>Never the cargo.</em></h2>
+        <p>Claim Avenue sells plots in a city. Night Circuit runs cars when someone is paid. This yard sells neither. A plate is a labelled notice on a bay. If a firm wants an official plate they pay the same $9 — and their crates still only move when OnTheTape sees a payout.</p>
+        <div class="row">
+          <a class="btn lime" href="plate.html">See plate tickets</a>
+          <a class="btn ghost" href="model.html">Read the model</a>
+        </div>
+      </div>
+      <img src="img/manifest.jpg" alt="Dock manifest clipboard" />
+    </div>
+  </section>
+  <footer>
+    <span>From OnTheTape · payoutstreet.com preview</span>
+    <span>Crates are illustrative until live tape is wired</span>
+    <a href="https://onthetape.io">onthetape.io</a>
+  </footer>
+  <script src="js/data.js"></script>
+  <script>
+    const t = PS.totals();
+    document.getElementById("stats").innerHTML = `
+      <div><b>${PS.money(t.volume)}</b><span>Observed volume</span></div>
+      <div><b>${t.count}</b><span>Crates stacked</span></div>
+      <div><b>${t.firms}</b><span>Bays with cargo</span></div>
+      <div><b>${t.verifiedShare}%</b><span>Chain or rail</span></div>`;
+    const tick = () => document.getElementById("utc").textContent = new Date().toISOString().slice(11,19) + " UTC";
+    tick(); setInterval(tick, 1000);
+  </script>
+</body>
+</html>

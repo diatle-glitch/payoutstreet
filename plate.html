@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bolt a plate — Payout Street</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><small>from <b>OnTheTape</b></small><strong>PAYOUT<em>STREET</em></strong></a>
+    <nav class="nav">
+      <a href="yard.html">The yard</a>
+      <a href="manifest.html">Manifest</a>
+      <a href="model.html">Model</a>
+      <time id="utc"></time>
+      <a class="cta" href="plate.html">Bolt a plate · $9/mo</a>
+    </nav>
+  </header>
+  <section class="page-hero">
+    <img src="img/crate-and-plate.jpg" alt="" />
+    <div class="veil"></div>
+    <div class="inner">
+      <div class="kicker">Plate desk · preview</div>
+      <h1>Bolt a plate<br>from <em>$9/mo.</em></h1>
+    </div>
+  </section>
+  <main class="page">
+    <p class="intro">You are renting a metal plate on a bay door. You are not buying crates, rank, an NFT, or a claim on a firm.</p>
+    <div class="note">Preview only — no charge is taken here. Production should bill monthly and mark the plate PAID NOTICE.</div>
+    <div class="grid2">
+      <form class="form" onsubmit="event.preventDefault(); alert('Preview only. No plate was bolted.');">
+        <label>Plate</label>
+        <select id="plan">
+          <option value="9">Wanderer · aisle · $9/mo</option>
+          <option value="29">Official · firm door · $29/mo</option>
+          <option value="79">Lit bay · canopy · $79/mo</option>
+        </select>
+        <label>Name on the plate</label>
+        <input placeholder="Desk, media, tool, or firm" />
+        <label>Website</label>
+        <input placeholder="https://" />
+        <label>One line (public)</label>
+        <textarea rows="3" placeholder="No ranking claims. No guaranteed payouts."></textarea>
+        <div class="row"><button class="btn lime" type="submit">Preview bolt</button></div>
+      </form>
+      <aside class="ticket">
+        <div class="kicker">Ticket</div>
+        <div class="n" id="price">$9</div>
+        <p>Per month. Cancel any time. Does not add a crate. Does not move the manifest.</p>
+        <a class="btn ghost" href="model.html">Read the model</a>
+      </aside>
+    </div>
+  </main>
+  <script>
+    document.getElementById("plan").onchange = (e) => document.getElementById("price").textContent = "$" + e.target.value;
+    document.getElementById("utc").textContent = new Date().toISOString().slice(11,19)+" UTC";
+  </script>
+</body>
+</html>
