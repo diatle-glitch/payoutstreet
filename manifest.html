@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Manifest — Payout Street</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><small>from <b>OnTheTape</b></small><strong>PAYOUT<em>STREET</em></strong></a>
+    <nav class="nav">
+      <a href="yard.html">The yard</a>
+      <a class="is-on" href="manifest.html">Manifest</a>
+      <a href="method.html">How it works</a>
+      <time id="utc"></time>
+      <a class="cta" href="plate.html">Bolt a plate · $9/mo</a>
+    </nav>
+  </header>
+  <section class="page-hero">
+    <img src="img/manifest.jpg" alt="" />
+    <div class="veil"></div>
+    <div class="inner">
+      <div class="kicker">Dock master’s list</div>
+      <h1>The <em>manifest.</em></h1>
+    </div>
+  </section>
+  <main class="page">
+    <p class="intro">Same questions as OnTheTape. Preview cargo only — live totals stay on onthetape.io. A paid plate never changes this order.</p>
+    <div class="note">Illustrative preview. No paid positions. Screenshots are not verified proof.</div>
+    <div class="stats" id="stats" style="margin:0 0 24px"></div>
+    <table>
+      <thead>
+        <tr><th>#</th><th>Bay / firm</th><th>Evidence</th><th>Observed</th><th>Crates</th><th>Median</th><th>Latest</th></tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <script src="js/data.js"></script>
+  <script>
+    const t = PS.totals();
+    document.getElementById("stats").innerHTML = `
+      <div><b>${PS.money(t.volume)}</b><span>Observed</span></div>
+      <div><b>${t.count}</b><span>Crates</span></div>
+      <div><b>${t.firms}</b><span>Bays</span></div>
+      <div><b>${t.verifiedShare}%</b><span>Chain or rail</span></div>`;
+    const tone = { L1: "chain", L2: "rail", L3: "comm" };
+    document.getElementById("rows").innerHTML = PS.active().map((f, i) => `
+      <tr id="${f.id}">
+        <td>${i + 1}</td>
+        <td><b>${f.name}</b><div class="meta" style="font-family:var(--mono);font-size:11px;color:var(--muted)">${f.plot} · ${f.method}</div></td>
+        <td>${f.level ? `<span class="tag ${tone[f.level]}">${PS.EVIDENCE[f.level].short}</span>` : "—"}</td>
+        <td>${PS.moneyFull(f.volume)}</td>
+        <td>${f.count}</td>
+        <td>${PS.moneyFull(f.median)}</td>
+        <td>${f.latest || "—"}</td>
+      </tr>`).join("");
+    document.getElementById("utc").textContent = new Date().toISOString().slice(11,19)+" UTC";
+  </script>
+</body>
+</html>

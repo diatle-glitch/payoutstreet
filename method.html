@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How it works — Payout Street Yard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><small>from <b>OnTheTape</b></small><strong>PAYOUT<em>STREET</em></strong></a>
+    <nav class="nav">
+      <a href="yard.html">The yard</a>
+      <a href="manifest.html">Manifest</a>
+      <a class="is-on" href="method.html">How it works</a>
+      <time id="utc"></time>
+      <a class="cta" href="plate.html">Bolt a plate · $9/mo</a>
+    </nav>
+  </header>
+  <section class="page-hero">
+    <img src="img/yard-night.jpg" alt="" />
+    <div class="veil"></div>
+    <div class="inner">
+      <div class="kicker">How it works</div>
+      <h1>A payout becomes<br>a <em>crate.</em></h1>
+    </div>
+  </section>
+  <main class="page">
+    <div class="split">
+      <img src="img/crate-and-plate.jpg" alt="" />
+      <div>
+        <div class="kicker">Step 1 · Look</div>
+        <h2>Read the stack<br>before the door.</h2>
+        <p>Taller stack = more observed dollars. Teal straps are public-chain. Gold are payment-rail. Grey are community reports. The little gold door is only a plate. Mixing those two is how every other prop ranking gets captured.</p>
+      </div>
+    </div>
+    <div class="split reverse" style="margin-top:56px">
+      <div>
+        <div class="kicker">Step 2 · Count</div>
+        <h2>Same questions<br>as OnTheTape.</h2>
+        <p>Who paid. How much. When. How we know. Production numbers live on onthetape.io. This yard is a picture of that list — not a second ranking you can buy.</p>
+      </div>
+      <img src="img/manifest.jpg" alt="" />
+    </div>
+    <div style="margin-top:56px">
+      <div class="kicker">Step 3 · The only purchase</div>
+      <h2>Bolt a plate. $9 a month.</h2>
+      <p class="intro">A plate is a labelled notice: name, link, one line. It is not a crate, a rank, an NFT, or a claim on a firm. Cancel anytime. No secondary market. No buy-from at 1.25×. That was Claim Avenue’s city. This is a dock.</p>
+      <a class="btn lime" href="plate.html">Open the plate desk</a>
+    </div>
+  </main>
+  <script>document.getElementById("utc").textContent = new Date().toISOString().slice(11,19)+" UTC";</script>
+</body>
+</html>
