@@ -63,7 +63,7 @@ See [ARCHITECTURE.md](ARCHITECTURE.md). Frontend never sees the API key.
 cd skyline && npm test
 ```
 
-Normalization, decimal money, engine dedupe, firm map / unverified accounting.
+14/14 passing: decimal money, verification/normalization, invalid window rejection, engine dedupe, firm map / unverified accounting.
 
 Manual checklist after deploy:
 

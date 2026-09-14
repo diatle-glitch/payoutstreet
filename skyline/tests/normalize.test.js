@@ -10,11 +10,16 @@ import {
   sourceFromMix,
   toClientFirm,
 } from '../src/normalize.js';
+import { parseWindow } from '../src/validate.js';
 
 test('90d UI period maps to 365d', () => {
   const mapped = mapUiPeriod('90d');
   assert.equal(mapped.api, '365d');
   assert.match(mapped.note, /365d/);
+});
+
+test('unknown windows are rejected at the BFF boundary', () => {
+  assert.throws(() => parseWindow('nope'), /Unsupported window/);
 });
 
 test('mix majority labels Rise / On-chain / Discord', () => {
