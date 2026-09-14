@@ -1,0 +1,531 @@
+{
+  "data": [
+    {
+      "id": "dep:0x90d27b9124a249daeb545a93a710fdbdac8fd21b55dcbac0829bd5c78b4c476f:0x228d19d3f95727625018272bb534ff3b17d2e212:1300000.0:1",
+      "firm_id": "myfundedfutures",
+      "amount": {
+        "amount": "1300000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x90d27b9124a249daeb545a93a710fdbdac8fd21b55dcbac0829bd5c78b4c476f",
+      "proof_url": "https://arbiscan.io/tx/0x90d27b9124a249daeb545a93a710fdbdac8fd21b55dcbac0829bd5c78b4c476f",
+      "at": "2026-09-14T20:09:28Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x1349069c785ed1a6265c1adefa6275fe440efdb7f836ac066e9c762a62feced9:0x81bc20d863060e46fec5353b16b1962632430945:45000.0:4",
+      "firm_id": "fundedseat",
+      "amount": {
+        "amount": "45000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x1349069c785ed1a6265c1adefa6275fe440efdb7f836ac066e9c762a62feced9",
+      "proof_url": "https://arbiscan.io/tx/0x1349069c785ed1a6265c1adefa6275fe440efdb7f836ac066e9c762a62feced9",
+      "at": "2026-09-14T19:38:03Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xffe563893b4c2dc14118004c9597e880803e26146bac42e1f2f217fe5fc7170d:0xa9730dc351507b730c629e11ce2e2a1afec8f5b4:120000.0:4",
+      "firm_id": "fundedfuturesfamily",
+      "amount": {
+        "amount": "120000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xffe563893b4c2dc14118004c9597e880803e26146bac42e1f2f217fe5fc7170d",
+      "proof_url": "https://arbiscan.io/tx/0xffe563893b4c2dc14118004c9597e880803e26146bac42e1f2f217fe5fc7170d",
+      "at": "2026-09-14T19:18:54Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xf2bde9c04194d8c2edd83bb647499e16b475e7ad1c8252f780736e10881d38d7:0x736cb34fdf4515f13493b4553b7aa7bb2e79ec9b:40637.0:1",
+      "firm_id": "blusky-pro",
+      "amount": {
+        "amount": "40637.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xf2bde9c04194d8c2edd83bb647499e16b475e7ad1c8252f780736e10881d38d7",
+      "proof_url": "https://arbiscan.io/tx/0xf2bde9c04194d8c2edd83bb647499e16b475e7ad1c8252f780736e10881d38d7",
+      "at": "2026-09-14T18:47:24Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x783e5f0a60e693c8dcf0a16eb7801c0c98a0c8f933d266f0652d9d9e11edf8e8:0x4687c6ef3855ff79f42214a29202bb6f105b723b:32000.0:0",
+      "firm_id": "toptiertrader",
+      "amount": {
+        "amount": "32000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x783e5f0a60e693c8dcf0a16eb7801c0c98a0c8f933d266f0652d9d9e11edf8e8",
+      "proof_url": "https://arbiscan.io/tx/0x783e5f0a60e693c8dcf0a16eb7801c0c98a0c8f933d266f0652d9d9e11edf8e8",
+      "at": "2026-09-14T17:08:40Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x6e7757d8d5fe3765134fd7f6c9d7e5d953965534909551481e9a1a133e9fb296:0x11879c38d7889f98d07957a46ad4f2e398835915:150000.0:4",
+      "firm_id": "e8markets",
+      "amount": {
+        "amount": "150000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x6e7757d8d5fe3765134fd7f6c9d7e5d953965534909551481e9a1a133e9fb296",
+      "proof_url": "https://arbiscan.io/tx/0x6e7757d8d5fe3765134fd7f6c9d7e5d953965534909551481e9a1a133e9fb296",
+      "at": "2026-09-14T15:40:40Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x7e9c9464472e34d1a9dd0ed65ad39a7e303ef6ff33f416a51b1ee362c0dfe054:0x919368bacb92b07e8da93f8c8a2d3b86dda5b32b:200.0:0",
+      "firm_id": "fundedtradermarkets",
+      "amount": {
+        "amount": "200.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x7e9c9464472e34d1a9dd0ed65ad39a7e303ef6ff33f416a51b1ee362c0dfe054",
+      "proof_url": "https://arbiscan.io/tx/0x7e9c9464472e34d1a9dd0ed65ad39a7e303ef6ff33f416a51b1ee362c0dfe054",
+      "at": "2026-09-14T15:12:34Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x4805c0bc1dc1eacb4409126e68faffce6a6f63b12a75fcbbefeb64eb63f1e8f2:0x2a289ea079ad8b798186ca0cef17747f1ccc5844:200000.0:17",
+      "firm_id": "blueguardian",
+      "amount": {
+        "amount": "200000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x4805c0bc1dc1eacb4409126e68faffce6a6f63b12a75fcbbefeb64eb63f1e8f2",
+      "proof_url": "https://arbiscan.io/tx/0x4805c0bc1dc1eacb4409126e68faffce6a6f63b12a75fcbbefeb64eb63f1e8f2",
+      "at": "2026-09-14T14:36:41Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x6c4c363cf9ab9a9e12bddc928fe5dfad52cc120441fdbc237a8b64495f072145:0x4d9891e374457019e9c0b13ca93e7dc5d4bcd72e:25000.0:1",
+      "firm_id": "ylostrading",
+      "amount": {
+        "amount": "25000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x6c4c363cf9ab9a9e12bddc928fe5dfad52cc120441fdbc237a8b64495f072145",
+      "proof_url": "https://arbiscan.io/tx/0x6c4c363cf9ab9a9e12bddc928fe5dfad52cc120441fdbc237a8b64495f072145",
+      "at": "2026-09-14T14:10:28Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xc5cf074910d40c98f1834e8457a799cd2c84c3713dba3418c20cff4ba2a29905:0x434a506c1f95a30e6f51bd37c26d3b9c1f95b702:11401.0:2",
+      "firm_id": "fxify",
+      "amount": {
+        "amount": "11401.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xc5cf074910d40c98f1834e8457a799cd2c84c3713dba3418c20cff4ba2a29905",
+      "proof_url": "https://arbiscan.io/tx/0xc5cf074910d40c98f1834e8457a799cd2c84c3713dba3418c20cff4ba2a29905",
+      "at": "2026-09-14T13:26:02Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x908397124e442fdeea42b1480715e477ac4bf817d81809c1f42876b0f3b3dfd5:0xd615b4fa6c05295f95f191c0da83aa296c98ff1a:50000.0:15",
+      "firm_id": "phidiaspropfirm",
+      "amount": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x908397124e442fdeea42b1480715e477ac4bf817d81809c1f42876b0f3b3dfd5",
+      "proof_url": "https://arbiscan.io/tx/0x908397124e442fdeea42b1480715e477ac4bf817d81809c1f42876b0f3b3dfd5",
+      "at": "2026-09-14T13:24:11Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x35ad7ac8f8cb43cd4b335ab2a1c7302e2127969bc4a92b2784359335e969e385:0x561bd6e920f28e0d691bd6ecce175dd409ab8833:400000.0:4",
+      "firm_id": "the5ers",
+      "amount": {
+        "amount": "400000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x35ad7ac8f8cb43cd4b335ab2a1c7302e2127969bc4a92b2784359335e969e385",
+      "proof_url": "https://arbiscan.io/tx/0x35ad7ac8f8cb43cd4b335ab2a1c7302e2127969bc4a92b2784359335e969e385",
+      "at": "2026-09-14T13:24:10Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x1a0d47528d58155ea2c27cbc98a84ab9d7e8aca219f3c5525b8c7be1bea9b7ee:0x41acdd79577afc40e17c152752cfa0c515c6b42e:60000.0:2",
+      "firm_id": "alphacapitalgroup",
+      "amount": {
+        "amount": "60000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x1a0d47528d58155ea2c27cbc98a84ab9d7e8aca219f3c5525b8c7be1bea9b7ee",
+      "proof_url": "https://arbiscan.io/tx/0x1a0d47528d58155ea2c27cbc98a84ab9d7e8aca219f3c5525b8c7be1bea9b7ee",
+      "at": "2026-09-14T13:24:10Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x764b5eee5423f9b85a608e86e35b85580bce89195e3e3c80deba672214b80368:0x99e4e17afac460736a2df1c1bd27e70e9c7b14e1:35000.0:0",
+      "firm_id": "alphafutures",
+      "amount": {
+        "amount": "35000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x764b5eee5423f9b85a608e86e35b85580bce89195e3e3c80deba672214b80368",
+      "proof_url": "https://arbiscan.io/tx/0x764b5eee5423f9b85a608e86e35b85580bce89195e3e3c80deba672214b80368",
+      "at": "2026-09-14T13:24:10Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xf9090e1562c6fbadd1dc0ecf0dd0a7bc789573f3d7f1e7d0c62feef18134fe51:0x7f452224633654653f37e5e5ce2f0f01d3623c91:100000.0:1",
+      "firm_id": "tradeday",
+      "amount": {
+        "amount": "100000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xf9090e1562c6fbadd1dc0ecf0dd0a7bc789573f3d7f1e7d0c62feef18134fe51",
+      "proof_url": "https://arbiscan.io/tx/0xf9090e1562c6fbadd1dc0ecf0dd0a7bc789573f3d7f1e7d0c62feef18134fe51",
+      "at": "2026-09-14T12:58:37Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x04cf529f05d96128e86229ece1d5d8096e6e58f1dba3483a32952687b1909516:0x04864d315c2594a1b9ca4f35faeb701d2159ab6c:50000.0:2",
+      "firm_id": "aquafunded",
+      "amount": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x04cf529f05d96128e86229ece1d5d8096e6e58f1dba3483a32952687b1909516",
+      "proof_url": "https://arbiscan.io/tx/0x04cf529f05d96128e86229ece1d5d8096e6e58f1dba3483a32952687b1909516",
+      "at": "2026-09-14T12:58:37Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x73c633ec62128f5d6e552a7ce879e3a930ab1430bfc3a5663994aa8656fb01ff:0xcdbfeeb37b6c4444a9af5d82ecfbc99679b45685:50000.0:4",
+      "firm_id": "instantfunding",
+      "amount": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x73c633ec62128f5d6e552a7ce879e3a930ab1430bfc3a5663994aa8656fb01ff",
+      "proof_url": "https://arbiscan.io/tx/0x73c633ec62128f5d6e552a7ce879e3a930ab1430bfc3a5663994aa8656fb01ff",
+      "at": "2026-09-14T12:58:36Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xa273b9019b7c83ed3844021af1e646fd55b2418820b689780b7b10bc6f81598e:0x6f7a634a9d5f47a9da491a095f1c8375dc9495c1:2000000.0:3",
+      "firm_id": "tradeify-futures",
+      "amount": {
+        "amount": "2000000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xa273b9019b7c83ed3844021af1e646fd55b2418820b689780b7b10bc6f81598e",
+      "proof_url": "https://arbiscan.io/tx/0xa273b9019b7c83ed3844021af1e646fd55b2418820b689780b7b10bc6f81598e",
+      "at": "2026-09-14T12:29:53Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xf00ffb803bf7f0321415f08507e08bd31c6992292235f1c0dd9a284284846a9f:0x144bd8af6135e9dfb7839bc03e4d155a444095c6:200000.0:1",
+      "firm_id": "futureselite",
+      "amount": {
+        "amount": "200000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xf00ffb803bf7f0321415f08507e08bd31c6992292235f1c0dd9a284284846a9f",
+      "proof_url": "https://arbiscan.io/tx/0xf00ffb803bf7f0321415f08507e08bd31c6992292235f1c0dd9a284284846a9f",
+      "at": "2026-09-14T12:29:53Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x0a3be93365d8edd7948678aad0fb4ca9b3b202f0608288460231cc34a08352d8:0x032a1fd6f00adcb7b60c6ccf806149c3ff5ba861:136000.0:5",
+      "firm_id": "fundingpips",
+      "amount": {
+        "amount": "136000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x0a3be93365d8edd7948678aad0fb4ca9b3b202f0608288460231cc34a08352d8",
+      "proof_url": "https://arbiscan.io/tx/0x0a3be93365d8edd7948678aad0fb4ca9b3b202f0608288460231cc34a08352d8",
+      "at": "2026-09-14T09:20:40Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x267a84a69fbaf3043b7a563060c3ea2fa6030cbad216de8c5d1f68ae3843659f:0x2a289ea079ad8b798186ca0cef17747f1ccc5844:19135.71:2",
+      "firm_id": "blueguardian",
+      "amount": {
+        "amount": "19135.71",
+        "currency": "USD"
+      },
+      "tx_ref": "0x267a84a69fbaf3043b7a563060c3ea2fa6030cbad216de8c5d1f68ae3843659f",
+      "proof_url": "https://arbiscan.io/tx/0x267a84a69fbaf3043b7a563060c3ea2fa6030cbad216de8c5d1f68ae3843659f",
+      "at": "2026-09-14T03:06:51Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xee44ddef930c2d21a208f0d33bb0d9f92ae9b375e8896de0c9194c2a8f488f43:0x2a289ea079ad8b798186ca0cef17747f1ccc5844:116820.0:2",
+      "firm_id": "blueguardian",
+      "amount": {
+        "amount": "116820.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xee44ddef930c2d21a208f0d33bb0d9f92ae9b375e8896de0c9194c2a8f488f43",
+      "proof_url": "https://arbiscan.io/tx/0xee44ddef930c2d21a208f0d33bb0d9f92ae9b375e8896de0c9194c2a8f488f43",
+      "at": "2026-09-13T15:45:45Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x8cacab9d14699ad18ded3e6ae0b055367e4ce5b0a96dac4000b64b6948a807fd:0x736cb34fdf4515f13493b4553b7aa7bb2e79ec9b:725.6:5",
+      "firm_id": "blusky-pro",
+      "amount": {
+        "amount": "725.60",
+        "currency": "USD"
+      },
+      "tx_ref": "0x8cacab9d14699ad18ded3e6ae0b055367e4ce5b0a96dac4000b64b6948a807fd",
+      "proof_url": "https://arbiscan.io/tx/0x8cacab9d14699ad18ded3e6ae0b055367e4ce5b0a96dac4000b64b6948a807fd",
+      "at": "2026-09-13T02:13:46Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xf44d151b31c785bbbaffd85e1eae5c0889e4686fd4d22459b1b36b3eccda8888:0x919368bacb92b07e8da93f8c8a2d3b86dda5b32b:63000.0:11",
+      "firm_id": "fundedtradermarkets",
+      "amount": {
+        "amount": "63000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xf44d151b31c785bbbaffd85e1eae5c0889e4686fd4d22459b1b36b3eccda8888",
+      "proof_url": "https://arbiscan.io/tx/0xf44d151b31c785bbbaffd85e1eae5c0889e4686fd4d22459b1b36b3eccda8888",
+      "at": "2026-09-12T08:40:36Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xc16f99e95424cf81f91613e03e6334a7378ff8294c1a3f4ddaba660796281488:0x81bc20d863060e46fec5353b16b1962632430945:20000.0:38",
+      "firm_id": "fundedseat",
+      "amount": {
+        "amount": "20000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xc16f99e95424cf81f91613e03e6334a7378ff8294c1a3f4ddaba660796281488",
+      "proof_url": "https://arbiscan.io/tx/0xc16f99e95424cf81f91613e03e6334a7378ff8294c1a3f4ddaba660796281488",
+      "at": "2026-09-11T21:06:20Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xe9411a81c92961eea2e754cb4d052e050c16a0c3809d3f01d9cb19885b5dd5fb:0xa9730dc351507b730c629e11ce2e2a1afec8f5b4:105000.0:0",
+      "firm_id": "fundedfuturesfamily",
+      "amount": {
+        "amount": "105000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xe9411a81c92961eea2e754cb4d052e050c16a0c3809d3f01d9cb19885b5dd5fb",
+      "proof_url": "https://arbiscan.io/tx/0xe9411a81c92961eea2e754cb4d052e050c16a0c3809d3f01d9cb19885b5dd5fb",
+      "at": "2026-09-11T18:50:46Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x8f8bc209244207905fd1db765181dc11241c34dc3716be7847beacd29fd558d9:0x44bf51ab580ba1ef55d7847b338af6a33c2b8895:50000.0:5",
+      "firm_id": "legends-trading",
+      "amount": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x8f8bc209244207905fd1db765181dc11241c34dc3716be7847beacd29fd558d9",
+      "proof_url": "https://arbiscan.io/tx/0x8f8bc209244207905fd1db765181dc11241c34dc3716be7847beacd29fd558d9",
+      "at": "2026-09-11T17:11:26Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xaed71a5c883fd6247748272c5e8b1adb730d779c6ef216cad8effa9b81e5a2fa:0x736cb34fdf4515f13493b4553b7aa7bb2e79ec9b:43051.23:1",
+      "firm_id": "blusky-pro",
+      "amount": {
+        "amount": "43051.23",
+        "currency": "USD"
+      },
+      "tx_ref": "0xaed71a5c883fd6247748272c5e8b1adb730d779c6ef216cad8effa9b81e5a2fa",
+      "proof_url": "https://arbiscan.io/tx/0xaed71a5c883fd6247748272c5e8b1adb730d779c6ef216cad8effa9b81e5a2fa",
+      "at": "2026-09-11T17:11:26Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x294cd5c4333b2d702963f4f20cebf4fb53fcd15d792498949fb15bbc14d43bd9:0x3ef4f498bd1db53ecfac8badfd554220eeb72379:25000.0:0",
+      "firm_id": "elite-trader-funding",
+      "amount": {
+        "amount": "25000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x294cd5c4333b2d702963f4f20cebf4fb53fcd15d792498949fb15bbc14d43bd9",
+      "proof_url": "https://arbiscan.io/tx/0x294cd5c4333b2d702963f4f20cebf4fb53fcd15d792498949fb15bbc14d43bd9",
+      "at": "2026-09-11T17:11:26Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xe633a32fffa12ef6e7c33ecb07a2b71d1cd17db4e79c493a85a951657e3f8ee7:0x4d9891e374457019e9c0b13ca93e7dc5d4bcd72e:25000.0:1",
+      "firm_id": "ylostrading",
+      "amount": {
+        "amount": "25000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xe633a32fffa12ef6e7c33ecb07a2b71d1cd17db4e79c493a85a951657e3f8ee7",
+      "proof_url": "https://arbiscan.io/tx/0xe633a32fffa12ef6e7c33ecb07a2b71d1cd17db4e79c493a85a951657e3f8ee7",
+      "at": "2026-09-11T15:09:50Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x91afc2fab9279dd2ea4a5939c4117b5340d097003a7c39d08a688d6728b510f1:0x4687c6ef3855ff79f42214a29202bb6f105b723b:6000.0:0",
+      "firm_id": "toptiertrader",
+      "amount": {
+        "amount": "6000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x91afc2fab9279dd2ea4a5939c4117b5340d097003a7c39d08a688d6728b510f1",
+      "proof_url": "https://arbiscan.io/tx/0x91afc2fab9279dd2ea4a5939c4117b5340d097003a7c39d08a688d6728b510f1",
+      "at": "2026-09-11T14:37:51Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x39e911943998724d6b6c21ef862f41ffa6d79fc2df63d4c9f5f9c5db2287c003:0x498578d100d13826836e078d5b6a7094cc54eb32:120000.0:5",
+      "firm_id": "toponefutures",
+      "amount": {
+        "amount": "120000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x39e911943998724d6b6c21ef862f41ffa6d79fc2df63d4c9f5f9c5db2287c003",
+      "proof_url": "https://arbiscan.io/tx/0x39e911943998724d6b6c21ef862f41ffa6d79fc2df63d4c9f5f9c5db2287c003",
+      "at": "2026-09-11T14:33:02Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x3e2937f522ac5b206b5a941ef28750cf7bc1e74a042c3d80d364117745f6a9de:0x434a506c1f95a30e6f51bd37c26d3b9c1f95b702:14607.0:16",
+      "firm_id": "fxify",
+      "amount": {
+        "amount": "14607.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x3e2937f522ac5b206b5a941ef28750cf7bc1e74a042c3d80d364117745f6a9de",
+      "proof_url": "https://arbiscan.io/tx/0x3e2937f522ac5b206b5a941ef28750cf7bc1e74a042c3d80d364117745f6a9de",
+      "at": "2026-09-11T14:08:49Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xbca34b1c33d88b2426f82b73b750c6e6f6e1089e244f8345e95902cd97551206:0x3ce49aaff2f09ac3984374acb519afc83879df27:48000.0:31",
+      "firm_id": "alphatraderfirm",
+      "amount": {
+        "amount": "48000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xbca34b1c33d88b2426f82b73b750c6e6f6e1089e244f8345e95902cd97551206",
+      "proof_url": "https://arbiscan.io/tx/0xbca34b1c33d88b2426f82b73b750c6e6f6e1089e244f8345e95902cd97551206",
+      "at": "2026-09-11T13:53:06Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x3839bfabefef89e666b143a434481e416d49f774fe7b42ab5dc976704b58e122:0x41acdd79577afc40e17c152752cfa0c515c6b42e:60000.0:30",
+      "firm_id": "alphacapitalgroup",
+      "amount": {
+        "amount": "60000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x3839bfabefef89e666b143a434481e416d49f774fe7b42ab5dc976704b58e122",
+      "proof_url": "https://arbiscan.io/tx/0x3839bfabefef89e666b143a434481e416d49f774fe7b42ab5dc976704b58e122",
+      "at": "2026-09-11T13:23:05Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x757b9c0a38ebfead8ffde950f26ab2ef41424612c969c5a5055dae7c5580a970:0x032a1fd6f00adcb7b60c6ccf806149c3ff5ba861:175000.0:18",
+      "firm_id": "fundingpips",
+      "amount": {
+        "amount": "175000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x757b9c0a38ebfead8ffde950f26ab2ef41424612c969c5a5055dae7c5580a970",
+      "proof_url": "https://arbiscan.io/tx/0x757b9c0a38ebfead8ffde950f26ab2ef41424612c969c5a5055dae7c5580a970",
+      "at": "2026-09-11T13:06:15Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0xc131f6df7b5b5a4e52ef189b5da9ab324c1dabf675007f83c83a2ffff8757c53:0x0f1ba0fdd17bfdd2626b4899a9c41067ba25fa00:30000.0:33",
+      "firm_id": "goatfundedfutures",
+      "amount": {
+        "amount": "30000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0xc131f6df7b5b5a4e52ef189b5da9ab324c1dabf675007f83c83a2ffff8757c53",
+      "proof_url": "https://arbiscan.io/tx/0xc131f6df7b5b5a4e52ef189b5da9ab324c1dabf675007f83c83a2ffff8757c53",
+      "at": "2026-09-11T13:06:14Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x549992fadef2d10ecc2782eabbed55800b542e604df5df494a3ca33b7d5f4199:0x3a19638e995791676f8b4c5bc4e6f7a74d87f10e:2495000.0:12",
+      "firm_id": "fundednext",
+      "amount": {
+        "amount": "2495000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x549992fadef2d10ecc2782eabbed55800b542e604df5df494a3ca33b7d5f4199",
+      "proof_url": "https://arbiscan.io/tx/0x549992fadef2d10ecc2782eabbed55800b542e604df5df494a3ca33b7d5f4199",
+      "at": "2026-09-11T12:59:29Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x005dbec2b5c5fa660ea4e492c292f899073fb3a124ce2b6c846e440e4c60b812:0x919368bacb92b07e8da93f8c8a2d3b86dda5b32b:100000.0:67",
+      "firm_id": "fundedtradermarkets",
+      "amount": {
+        "amount": "100000.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x005dbec2b5c5fa660ea4e492c292f899073fb3a124ce2b6c846e440e4c60b812",
+      "proof_url": "https://arbiscan.io/tx/0x005dbec2b5c5fa660ea4e492c292f899073fb3a124ce2b6c846e440e4c60b812",
+      "at": "2026-09-11T12:50:28Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    },
+    {
+      "id": "dep:0x97e8a2758993a6e93dafd7d7dab5a692e0f508c32e4f48f5e295dbfaaa26ac00:0x434a506c1f95a30e6f51bd37c26d3b9c1f95b702:11880.0:4",
+      "firm_id": "fxify",
+      "amount": {
+        "amount": "11880.00",
+        "currency": "USD"
+      },
+      "tx_ref": "0x97e8a2758993a6e93dafd7d7dab5a692e0f508c32e4f48f5e295dbfaaa26ac00",
+      "proof_url": "https://arbiscan.io/tx/0x97e8a2758993a6e93dafd7d7dab5a692e0f508c32e4f48f5e295dbfaaa26ac00",
+      "at": "2026-09-11T12:40:47Z",
+      "direction": "in",
+      "token": "RiseUSD"
+    }
+  ],
+  "meta": {
+    "as_of": "2026-09-14T21:56:06Z",
+    "generated_at": "2026-09-14T22:02:09.413Z",
+    "request_id": "fix_inflows",
+    "source": "fixture",
+    "captured_from": "onthetape.io /api 2026-09-14"
+  }
+}

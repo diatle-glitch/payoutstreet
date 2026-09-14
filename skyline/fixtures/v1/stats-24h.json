@@ -1,0 +1,23 @@
+{
+  "data": {
+    "total": {
+      "amount": "3535494.41",
+      "currency": "USD"
+    },
+    "payout_count": 2146,
+    "firm_count": 32,
+    "largest": {
+      "amount": "50000.00",
+      "currency": "USD"
+    },
+    "window": "24h"
+  },
+  "meta": {
+    "as_of": "2026-09-14T22:02:09.410Z",
+    "generated_at": "2026-09-14T22:02:09.410Z",
+    "request_id": "fix_stats_24h",
+    "source": "fixture",
+    "captured_from": "onthetape.io /api 2026-09-14",
+    "window": "24h"
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": [
+    {
+      "id": "0x36c741e6384c7348b258f6596ef61c4b5e31a1f0e97d3b005b47bf10713aeb4d:0x4687c6ef3855ff79f42214a29202bb6f105b723b:900.0:11",
+      "firm_id": "toptiertrader",
+      "firm_name": "TopTierTrader",
+      "amount": {
+        "amount": "900.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:55:18Z",
+      "ts": 1789422918,
+      "proof_url": "https://arbiscan.io/tx/0x36c741e6384c7348b258f6596ef61c4b5e31a1f0e97d3b005b47bf10713aeb4d",
+      "tx_ref": "0x36c741e6384c7348b258f6596ef61c4b5e31a1f0e97d3b005b47bf10713aeb4d",
+      "payee_tag": null
+    },
+    {
+      "id": "0x292e917f8f140375e1af3a1d78492ad627c1a1e5709b55d2fc04fa3d75453efc:0x228d19d3f95727625018272bb534ff3b17d2e212:1584.4:6",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "1584.40",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:55:16Z",
+      "ts": 1789422916,
+      "proof_url": "https://arbiscan.io/tx/0x292e917f8f140375e1af3a1d78492ad627c1a1e5709b55d2fc04fa3d75453efc",
+      "tx_ref": "0x292e917f8f140375e1af3a1d78492ad627c1a1e5709b55d2fc04fa3d75453efc",
+      "payee_tag": null
+    },
+    {
+      "id": "0x19300989622d2bf66aceea2e6c92c5287f647f5850f92e1be2341b07a67b8f46:0x228d19d3f95727625018272bb534ff3b17d2e212:800.0:3",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:54:09Z",
+      "ts": 1789422849,
+      "proof_url": "https://arbiscan.io/tx/0x19300989622d2bf66aceea2e6c92c5287f647f5850f92e1be2341b07a67b8f46",
+      "tx_ref": "0x19300989622d2bf66aceea2e6c92c5287f647f5850f92e1be2341b07a67b8f46",
+      "payee_tag": null
+    },
+    {
+      "id": "0x6803a6e3ee764b65d29613ad8d572ec84e2975321f78d6c210864bd802c33e7d:0x228d19d3f95727625018272bb534ff3b17d2e212:800.0:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:53:44Z",
+      "ts": 1789422824,
+      "proof_url": "https://arbiscan.io/tx/0x6803a6e3ee764b65d29613ad8d572ec84e2975321f78d6c210864bd802c33e7d",
+      "tx_ref": "0x6803a6e3ee764b65d29613ad8d572ec84e2975321f78d6c210864bd802c33e7d",
+      "payee_tag": null
+    },
+    {
+      "id": "0xb1ebab91943fb3a88d94ea880a409d233b9db31bd0a6a3d2ceeb0f1d835da2c2:0x0353f53bd55b8011bad3de1d939ff4d8335cbb1d:68.657946:1822",
+      "firm_id": "propr",
+      "firm_name": "Propr",
+      "amount": {
+        "amount": "68.66",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "CHAIN",
+      "verified_at": "2026-09-14T21:53:35Z",
+      "ts": 1789422815,
+      "proof_url": "https://etherscan.io/tx/0xb1ebab91943fb3a88d94ea880a409d233b9db31bd0a6a3d2ceeb0f1d835da2c2",
+      "tx_ref": "0xb1ebab91943fb3a88d94ea880a409d233b9db31bd0a6a3d2ceeb0f1d835da2c2",
+      "payee_tag": null
+    },
+    {
+      "id": "0x01f8348d8d19af5bc6aad30587b379b947b5b7e17462fff5319dd24b91814b0e:0x228d19d3f95727625018272bb534ff3b17d2e212:1326.38:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "1326.38",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:53:05Z",
+      "ts": 1789422785,
+      "proof_url": "https://arbiscan.io/tx/0x01f8348d8d19af5bc6aad30587b379b947b5b7e17462fff5319dd24b91814b0e",
+      "tx_ref": "0x01f8348d8d19af5bc6aad30587b379b947b5b7e17462fff5319dd24b91814b0e",
+      "payee_tag": null
+    },
+    {
+      "id": "0xb05f34fa3b9797657eae8fe87c2bc738283f2b41406eb308c046a3098a7c3fd7:0x228d19d3f95727625018272bb534ff3b17d2e212:710.32:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "710.32",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:53:04Z",
+      "ts": 1789422784,
+      "proof_url": "https://arbiscan.io/tx/0xb05f34fa3b9797657eae8fe87c2bc738283f2b41406eb308c046a3098a7c3fd7",
+      "tx_ref": "0xb05f34fa3b9797657eae8fe87c2bc738283f2b41406eb308c046a3098a7c3fd7",
+      "payee_tag": null
+    },
+    {
+      "id": "0x10fdb0c6cf80a67f0bfc961f33ca420335b93b0e6e6db252c9c547137823e383:0x4687c6ef3855ff79f42214a29202bb6f105b723b:1000.0:9",
+      "firm_id": "toptiertrader",
+      "firm_name": "TopTierTrader",
+      "amount": {
+        "amount": "1000.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:52:54Z",
+      "ts": 1789422774,
+      "proof_url": "https://arbiscan.io/tx/0x10fdb0c6cf80a67f0bfc961f33ca420335b93b0e6e6db252c9c547137823e383",
+      "tx_ref": "0x10fdb0c6cf80a67f0bfc961f33ca420335b93b0e6e6db252c9c547137823e383",
+      "payee_tag": null
+    },
+    {
+      "id": "0x29c64305535fbb20b7e62e2b4cb876eed22b6012bcdc2de1c8199355725da649:0x228d19d3f95727625018272bb534ff3b17d2e212:203.2:1",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "203.20",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:52:31Z",
+      "ts": 1789422751,
+      "proof_url": "https://arbiscan.io/tx/0x29c64305535fbb20b7e62e2b4cb876eed22b6012bcdc2de1c8199355725da649",
+      "tx_ref": "0x29c64305535fbb20b7e62e2b4cb876eed22b6012bcdc2de1c8199355725da649",
+      "payee_tag": null
+    },
+    {
+      "id": "0x0bcadd3d2dc2a170e498d918f45be5fb21828fe838e8dbce88ecc1e9515ea49d:0x228d19d3f95727625018272bb534ff3b17d2e212:800.0:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:52:09Z",
+      "ts": 1789422729,
+      "proof_url": "https://arbiscan.io/tx/0x0bcadd3d2dc2a170e498d918f45be5fb21828fe838e8dbce88ecc1e9515ea49d",
+      "tx_ref": "0x0bcadd3d2dc2a170e498d918f45be5fb21828fe838e8dbce88ecc1e9515ea49d",
+      "payee_tag": null
+    },
+    {
+      "id": "0x29b2ce48ae1cd1e00131aa4437c6e4714c17195ace3afdff81f170d514696dea:0x228d19d3f95727625018272bb534ff3b17d2e212:800.0:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:51:56Z",
+      "ts": 1789422716,
+      "proof_url": "https://arbiscan.io/tx/0x29b2ce48ae1cd1e00131aa4437c6e4714c17195ace3afdff81f170d514696dea",
+      "tx_ref": "0x29b2ce48ae1cd1e00131aa4437c6e4714c17195ace3afdff81f170d514696dea",
+      "payee_tag": null
+    },
+    {
+      "id": "0x338532ef080a13a023223225af08b0563e374a2cf27b34241b04a679a0bcc01d:0x228d19d3f95727625018272bb534ff3b17d2e212:4043.16:0",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "4043.16",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:51:08Z",
+      "ts": 1789422668,
+      "proof_url": "https://arbiscan.io/tx/0x338532ef080a13a023223225af08b0563e374a2cf27b34241b04a679a0bcc01d",
+      "tx_ref": "0x338532ef080a13a023223225af08b0563e374a2cf27b34241b04a679a0bcc01d",
+      "payee_tag": null
+    },
+    {
+      "id": "0x255c83de0053041ac6555cdba7348eb3e9985d5ee0215cc83257fc7c86b67ca5:0x228d19d3f95727625018272bb534ff3b17d2e212:3499.62:85",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "3499.62",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:50:20Z",
+      "ts": 1789422620,
+      "proof_url": "https://arbiscan.io/tx/0x255c83de0053041ac6555cdba7348eb3e9985d5ee0215cc83257fc7c86b67ca5",
+      "tx_ref": "0x255c83de0053041ac6555cdba7348eb3e9985d5ee0215cc83257fc7c86b67ca5",
+      "payee_tag": null
+    },
+    {
+      "id": "0x5f5c405e1f15373f9ae0175bd2ae2d7362f5465ef3ae2fef726180f206dbdb5c:0x228d19d3f95727625018272bb534ff3b17d2e212:592.88:35",
+      "firm_id": "myfundedfutures",
+      "firm_name": "MyFundedFutures",
+      "amount": {
+        "amount": "592.88",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:50:12Z",
+      "ts": 1789422612,
+      "proof_url": "https://arbiscan.io/tx/0x5f5c405e1f15373f9ae0175bd2ae2d7362f5465ef3ae2fef726180f206dbdb5c",
+      "tx_ref": "0x5f5c405e1f15373f9ae0175bd2ae2d7362f5465ef3ae2fef726180f206dbdb5c",
+      "payee_tag": null
+    },
+    {
+      "id": "0x7ed09fb688aa047ba354d62a18db82e47d9b8d1a00937ccdb0a92fb6ebf64b68:0x2a289ea079ad8b798186ca0cef17747f1ccc5844:1777.0:10",
+      "firm_id": "blueguardian",
+      "firm_name": "BlueGuardian",
+      "amount": {
+        "amount": "1777.00",
+        "currency": "USD"
+      },
+      "status": "verified",
+      "source": "RISE",
+      "verified_at": "2026-09-14T21:50:11Z",
+      "ts": 1789422611,
+      "proof_url": "https://arbiscan.io/tx/0x7ed09fb688aa047ba354d62a18db82e47d9b8d1a00937ccdb0a92fb6ebf64b68",
+      "tx_ref": "0x7ed09fb688aa047ba354d62a18db82e47d9b8d1a00937ccdb0a92fb6ebf64b68",
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671836060287036",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "6464.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:15:20Z",
+      "ts": 1789064120,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671836060287036",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671835980865546",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "3000.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:15:20Z",
+      "ts": 1789064120,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671835980865546",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671836056359003",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "2602.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:15:20Z",
+      "ts": 1789064120,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671836056359003",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671835938656378",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "2000.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:15:20Z",
+      "ts": 1789064120,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671835938656378",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671835976671292",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "1938.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:15:20Z",
+      "ts": 1789064120,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671835976671292",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671688706134067",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "1698.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:44Z",
+      "ts": 1789064084,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671688706134067",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671679377866823",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "1722.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:42Z",
+      "ts": 1789064082,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671679377866823",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671679235526736",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "823.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:42Z",
+      "ts": 1789064082,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671679235526736",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671679222685726",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "750.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:42Z",
+      "ts": 1789064082,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671679222685726",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671678937595916",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "629.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:42Z",
+      "ts": 1789064082,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671678937595916",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671679247982623",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "379.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:14:42Z",
+      "ts": 1789064082,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671679247982623",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671335172444241",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "1786.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:13:20Z",
+      "ts": 1789064000,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671335172444241",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671333314232471",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "300.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:13:20Z",
+      "ts": 1789064000,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671333314232471",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671332324380773",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "5000.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:13:19Z",
+      "ts": 1789063999,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671332324380773",
+      "tx_ref": null,
+      "payee_tag": null
+    },
+    {
+      "id": "discord:1547671332349808840",
+      "firm_id": "topstep",
+      "firm_name": "Topstep",
+      "amount": {
+        "amount": "1867.00",
+        "currency": "USD"
+      },
+      "status": "unverified",
+      "source": "DISCORD",
+      "verified_at": "2026-09-10T18:13:19Z",
+      "ts": 1789063999,
+      "proof_url": "https://discord.com/channels/806986940024619039/1346237084297334907/1547671332349808840",
+      "tx_ref": null,
+      "payee_tag": null
+    }
+  ],
+  "meta": {
+    "as_of": "2026-09-14T21:55:18Z",
+    "generated_at": "2026-09-14T22:02:09.412Z",
+    "request_id": "fix_payouts",
+    "source": "fixture",
+    "captured_from": "onthetape.io /api 2026-09-14"
+  }
+}

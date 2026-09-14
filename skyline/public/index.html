@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>PayoutStreet — Follow the money</title>
+  <meta name="description" content="Explore the prop firm payout skyline, compare payouts and inspect payout sources.">
+  <link rel="icon" href="favicon.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <a class="brand" href="./" aria-label="PayoutStreet home"><span class="brand-icon">P<span>↗</span></span>PAYOUT<span class="brand-light">STREET</span><span class="brand-period">®</span></a>
+  <nav aria-label="Main navigation">
+    <button class="nav-active" data-view="street">The street</button>
+    <button data-view="books">Daily books</button>
+    <button id="how">How it works <span>↗</span></button>
+  </nav>
+  <span class="edition">THE PAYOUT OBSERVATORY</span>
+</header>
+<main>
+  <section class="page-heading">
+    <div>
+      <div class="eyebrow">PROP FIRMS. REAL MONEY. A DIFFERENT PERSPECTIVE.</div>
+      <h1>Follow the money<span>.</span></h1>
+    </div>
+    <div class="session-stack">
+      <div class="session" role="status" aria-live="polite">
+        <span class="status-dot" id="conn-dot"></span>
+        <span id="conn-label">LOADING</span>
+        <span class="session-date" id="as-of">UTC</span>
+      </div>
+      <div class="period-switch" role="tablist" aria-label="Payout period">
+        <button type="button" data-period="24h" aria-pressed="true">24h</button>
+        <button type="button" data-period="7d" aria-pressed="false">7d</button>
+        <button type="button" data-period="30d" aria-pressed="false">30d</button>
+        <button type="button" data-period="90d" aria-pressed="false">90d</button>
+        <button type="button" data-period="alltime" aria-pressed="false">All Time</button>
+      </div>
+    </div>
+  </section>
+  <p class="conn-banner" id="conn-banner" hidden></p>
+  <section class="metrics" aria-label="Session statistics">
+    <div>
+      <span class="metric-label">TOTAL PAID OUT <span>↗</span></span>
+      <strong id="total">—</strong>
+      <small id="total-caption">Across the street</small>
+    </div>
+    <div>
+      <span class="metric-label">PAYOUTS</span>
+      <strong id="payout-count">—</strong>
+      <small>Individual trader payouts</small>
+    </div>
+    <div>
+      <span class="metric-label">ON THE STREET</span>
+      <strong id="firm-count">08<span> firms</span></strong>
+      <small id="firm-caption">Loading source mix</small>
+    </div>
+    <div class="leader-metric">
+      <span class="metric-label">SETTING THE PACE</span>
+      <p id="leader-line"><b class="firm-mark yellow">•</b><span id="leader-name">—</span> <span id="leader-rank">01</span></p>
+      <small id="leader-share">Share of this period</small>
+    </div>
+  </section>
+  <section id="street" class="street-panel">
+    <div class="panel-toolbar">
+      <div class="panel-title">
+        <span class="status-dot" id="skyline-dot"></span>
+        <b>The payout skyline</b>
+        <span class="subtle" id="skyline-subtle">Every payout builds the street.</span>
+      </div>
+      <div class="play-controls">
+        <span id="replay-status">Connecting</span>
+        <button id="pause" aria-label="Pause replay">Ⅱ <span>Pause</span></button>
+        <button id="restart" aria-label="Restart replay">↺</button>
+      </div>
+    </div>
+    <div class="city-scroll" tabindex="0" role="region" aria-label="Payout skyline. Scroll horizontally to explore all eight buildings.">
+      <div class="city-scene">
+        <div class="city-heading">
+          <span>NIGHT SESSION / PAYOUT DISTRICT</span>
+          <span>08 BUILDINGS <i>·</i> 08 ROOFTOP PLACEMENTS</span>
+        </div>
+        <div class="chart-shell">
+          <div class="skyline" id="skyline" aria-label="Interactive payout buildings"></div>
+        </div>
+        <div class="dry-ground" aria-hidden="true"></div>
+        <canvas id="payout-people" aria-hidden="true"></canvas>
+        <div class="street-address"><span>PAYOUT ST.</span><span>SCROLL THE STREET →</span></div>
+        <div id="firm-labels" class="firm-labels"></div>
+      </div>
+    </div>
+    <div class="street-bottom">
+      <span><i class="legend-block"></i> Shared base + floors proportional to payouts <span class="legend-divider">/</span> Light = a new payout</span>
+      <span>Select a building or its rooftop ad <span>↗</span></span>
+    </div>
+  </section>
+  <div class="payout-demo" id="demo-panel" hidden>
+    <div>
+      <span class="eyebrow">TRY THE STREET</span>
+      <span id="walking-status" role="status" aria-live="polite">Ready for payouts</span>
+    </div>
+    <div class="demo-actions">
+      <button id="demo-one" type="button">One payout</button>
+      <button id="demo-same" type="button">Same building ×5</button>
+      <button id="demo-truck" type="button">Big payout · Supercar</button>
+      <button id="demo-many" type="button">Across the street ×8</button>
+      <button id="demo-topup" type="button">Firm top-up · Helicopter</button>
+      <button id="demo-disconnect" type="button">Disconnect</button>
+    </div>
+  </div>
+  <div class="payout-key">
+    <span>Under $2k · Cash bag</span>
+    <span>$2k–$9,999 · Duffel</span>
+    <span>$10k–$49,999 · Cash trolley</span>
+    <span>$50k+ · Supercar pickup</span>
+    <span>Helicopter · Firm account top-up</span>
+    <span id="key-note">Waiting for feed</span>
+  </div>
+  <div class="ticker">
+    <span class="ticker-label"><span class="status-dot"></span> ON THE TAPE</span>
+    <div id="tape"><span class="tape-source">Connecting to the street…</span></div>
+  </div>
+  <section class="books-section" id="books">
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow">THE NUMBERS BEHIND THE SKYLINE</span>
+        <h2>Daily books<span>.</span></h2>
+      </div>
+      <span id="books-stamp">Period snapshot</span>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>RANK</th>
+            <th>PROP FIRM</th>
+            <th>TOTAL PAID <span>↓</span></th>
+            <th>PAYOUTS</th>
+            <th>SHARE OF STREET</th>
+            <th>SOURCE</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="book-rows"></tbody>
+      </table>
+    </div>
+  </section>
+  <section class="sponsor">
+    <span class="eyebrow">A BETTER VIEW OF THE INDUSTRY.</span>
+    <p>Own a piece<br>of the skyline.</p>
+    <div>
+      <span>Eight rooftops. One dedicated billboard per building.</span>
+      <button id="sponsor-info">Explore rooftop placements <span>↗</span></button>
+    </div>
+    <span class="sponsor-index">ROOFTOP ADVERTISING</span>
+  </section>
+  <footer>
+    <a class="footer-brand" href="./">PAYOUTSTREET®</a>
+    <p>A street built on payouts.</p>
+    <span id="footer-note">Staging observatory · OnTheTape Partner /v1<br>Advertising never changes payout rankings.</span>
+    <button id="methodology">Methodology ↗</button>
+  </footer>
+</main>
+<dialog id="detail-dialog">
+  <button class="close-dialog" aria-label="Close dialog">×</button>
+  <div id="dialog-content"></div>
+</dialog>
+<script src="payout-engine.js"></script>
+<script src="js/street-state.js"></script>
+<script src="js/escape.js"></script>
+<script src="js/live-client.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

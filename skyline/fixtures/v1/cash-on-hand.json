@@ -1,0 +1,650 @@
+{
+  "fundednext": {
+    "data": {
+      "firm_id": "fundednext",
+      "amount": {
+        "amount": "2838445.74",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x3a19638e995791676f8b4c5bc4e6f7a74d87f10e"
+    },
+    "meta": {
+      "as_of": "2026-09-11T12:59:29Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fundednext",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "myfundedfutures": {
+    "data": {
+      "firm_id": "myfundedfutures",
+      "amount": {
+        "amount": "1874964.71",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x228d19d3f95727625018272bb534ff3b17d2e212"
+    },
+    "meta": {
+      "as_of": "2026-09-14T20:09:28Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_myfundedfutures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "tradeify-futures": {
+    "data": {
+      "firm_id": "tradeify-futures",
+      "amount": {
+        "amount": "1315141.07",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x6f7a634a9d5f47a9da491a095f1c8375dc9495c1"
+    },
+    "meta": {
+      "as_of": "2026-09-14T12:29:53Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_tradeify-futures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "the5ers": {
+    "data": {
+      "firm_id": "the5ers",
+      "amount": {
+        "amount": "1262542.97",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x561bd6e920f28e0d691bd6ecce175dd409ab8833"
+    },
+    "meta": {
+      "as_of": "2026-09-14T13:24:10Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_the5ers",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "tradeify-247": {
+    "data": {
+      "firm_id": "tradeify-247",
+      "amount": {
+        "amount": "290016.68",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x2727d30cfc79e55361df3f5b684fcfe6bd5d4130"
+    },
+    "meta": {
+      "as_of": "2026-09-11T12:35:16Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_tradeify-247",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "fundedtradermarkets": {
+    "data": {
+      "firm_id": "fundedtradermarkets",
+      "amount": {
+        "amount": "181618.08",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x919368bacb92b07e8da93f8c8a2d3b86dda5b32b"
+    },
+    "meta": {
+      "as_of": "2026-09-14T15:12:34Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fundedtradermarkets",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "tradeday": {
+    "data": {
+      "firm_id": "tradeday",
+      "amount": {
+        "amount": "173179.68",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x7f452224633654653f37e5e5ce2f0f01d3623c91"
+    },
+    "meta": {
+      "as_of": "2026-09-14T12:58:37Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_tradeday",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "aquafunded": {
+    "data": {
+      "firm_id": "aquafunded",
+      "amount": {
+        "amount": "172862.68",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x04864d315c2594a1b9ca4f35faeb701d2159ab6c"
+    },
+    "meta": {
+      "as_of": "2026-09-14T12:58:37Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_aquafunded",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "toponefutures": {
+    "data": {
+      "firm_id": "toponefutures",
+      "amount": {
+        "amount": "135586.83",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x498578d100d13826836e078d5b6a7094cc54eb32"
+    },
+    "meta": {
+      "as_of": "2026-09-11T14:33:02Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_toponefutures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "fundedfuturesfamily": {
+    "data": {
+      "firm_id": "fundedfuturesfamily",
+      "amount": {
+        "amount": "135564.93",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xa9730dc351507b730c629e11ce2e2a1afec8f5b4"
+    },
+    "meta": {
+      "as_of": "2026-09-14T19:18:54Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fundedfuturesfamily",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "fundingpips": {
+    "data": {
+      "firm_id": "fundingpips",
+      "amount": {
+        "amount": "122143.52",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x032a1fd6f00adcb7b60c6ccf806149c3ff5ba861"
+    },
+    "meta": {
+      "as_of": "2026-09-14T09:20:40Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fundingpips",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "blueguardian": {
+    "data": {
+      "firm_id": "blueguardian",
+      "amount": {
+        "amount": "103885.24",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x2a289ea079ad8b798186ca0cef17747f1ccc5844"
+    },
+    "meta": {
+      "as_of": "2026-09-14T14:36:41Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_blueguardian",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "e8markets": {
+    "data": {
+      "firm_id": "e8markets",
+      "amount": {
+        "amount": "99872.76",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x11879c38d7889f98d07957a46ad4f2e398835915"
+    },
+    "meta": {
+      "as_of": "2026-09-14T15:40:40Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_e8markets",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "phidiaspropfirm": {
+    "data": {
+      "firm_id": "phidiaspropfirm",
+      "amount": {
+        "amount": "81354.95",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xd615b4fa6c05295f95f191c0da83aa296c98ff1a"
+    },
+    "meta": {
+      "as_of": "2026-09-14T13:24:11Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_phidiaspropfirm",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "instantfunding": {
+    "data": {
+      "firm_id": "instantfunding",
+      "amount": {
+        "amount": "56507.84",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xcdbfeeb37b6c4444a9af5d82ecfbc99679b45685"
+    },
+    "meta": {
+      "as_of": "2026-09-14T12:58:36Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_instantfunding",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "toponetrader": {
+    "data": {
+      "firm_id": "toponetrader",
+      "amount": {
+        "amount": "56167.67",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xca003e24fa76f6790e0c3ed0d9dd2aacc1e52d0e"
+    },
+    "meta": {
+      "as_of": "2026-09-10T18:32:23Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_toponetrader",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "goatfundedtrader": {
+    "data": {
+      "firm_id": "goatfundedtrader",
+      "amount": {
+        "amount": "52884.98",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xb029cc8644f49b7ebbbb5080d49bc85027e96dc2"
+    },
+    "meta": {
+      "as_of": "2026-09-11T09:40:57Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_goatfundedtrader",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "fundedseat": {
+    "data": {
+      "firm_id": "fundedseat",
+      "amount": {
+        "amount": "47967.05",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x81bc20d863060e46fec5353b16b1962632430945"
+    },
+    "meta": {
+      "as_of": "2026-09-14T19:38:03Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fundedseat",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "ylostrading": {
+    "data": {
+      "firm_id": "ylostrading",
+      "amount": {
+        "amount": "43348.98",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x4d9891e374457019e9c0b13ca93e7dc5d4bcd72e"
+    },
+    "meta": {
+      "as_of": "2026-09-14T14:10:28Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_ylostrading",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "holaprime": {
+    "data": {
+      "firm_id": "holaprime",
+      "amount": {
+        "amount": "41678.02",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xdb719af9787a8d2a402779866d9eab115b5c7518"
+    },
+    "meta": {
+      "as_of": "2026-09-08T13:23:22Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_holaprime",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "orionfunded": {
+    "data": {
+      "firm_id": "orionfunded",
+      "amount": {
+        "amount": "20537.35",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x664ad20bee4f4e1208ee9679ea8d3f88200d71aa"
+    },
+    "meta": {
+      "as_of": "2026-09-10T07:47:38Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_orionfunded",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "aquafutures": {
+    "data": {
+      "firm_id": "aquafutures",
+      "amount": {
+        "amount": "16485.63",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x0cf3849b72e197bfa144702a0a443d2925b335a8"
+    },
+    "meta": {
+      "as_of": "2026-09-09T13:26:03Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_aquafutures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "futureselite": {
+    "data": {
+      "firm_id": "futureselite",
+      "amount": {
+        "amount": "11298.26",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x144bd8af6135e9dfb7839bc03e4d155a444095c6"
+    },
+    "meta": {
+      "as_of": "2026-09-14T12:29:53Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_futureselite",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "legends-trading": {
+    "data": {
+      "firm_id": "legends-trading",
+      "amount": {
+        "amount": "10053.34",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x44bf51ab580ba1ef55d7847b338af6a33c2b8895"
+    },
+    "meta": {
+      "as_of": "2026-09-11T17:11:26Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_legends-trading",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "elite-trader-funding": {
+    "data": {
+      "firm_id": "elite-trader-funding",
+      "amount": {
+        "amount": "8598.08",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x3ef4f498bd1db53ecfac8badfd554220eeb72379"
+    },
+    "meta": {
+      "as_of": "2026-09-11T17:11:26Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_elite-trader-funding",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "goatfundedfutures": {
+    "data": {
+      "firm_id": "goatfundedfutures",
+      "amount": {
+        "amount": "7163.65",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x0f1ba0fdd17bfdd2626b4899a9c41067ba25fa00"
+    },
+    "meta": {
+      "as_of": "2026-09-11T13:06:14Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_goatfundedfutures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "savius": {
+    "data": {
+      "firm_id": "savius",
+      "amount": {
+        "amount": "6547.77",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x65da091120d7230ee3db19e36001da1c0bbff429"
+    },
+    "meta": {
+      "as_of": "2026-09-14T21:56:06Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_savius",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "tradersyard": {
+    "data": {
+      "firm_id": "tradersyard",
+      "amount": {
+        "amount": "5480.78",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0xea222411b27c1cb40b790edbe71186262f1688d7"
+    },
+    "meta": {
+      "as_of": "2026-09-14T21:56:06Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_tradersyard",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "blusky-pro": {
+    "data": {
+      "firm_id": "blusky-pro",
+      "amount": {
+        "amount": "4783.18",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x736cb34fdf4515f13493b4553b7aa7bb2e79ec9b"
+    },
+    "meta": {
+      "as_of": "2026-09-14T18:47:24Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_blusky-pro",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "alphatraderfirm": {
+    "data": {
+      "firm_id": "alphatraderfirm",
+      "amount": {
+        "amount": "2452.56",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x3ce49aaff2f09ac3984374acb519afc83879df27"
+    },
+    "meta": {
+      "as_of": "2026-09-11T13:53:06Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_alphatraderfirm",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "alphacapitalgroup": {
+    "data": {
+      "firm_id": "alphacapitalgroup",
+      "amount": {
+        "amount": "2412.23",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x41acdd79577afc40e17c152752cfa0c515c6b42e"
+    },
+    "meta": {
+      "as_of": "2026-09-14T13:24:10Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_alphacapitalgroup",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "alphafutures": {
+    "data": {
+      "firm_id": "alphafutures",
+      "amount": {
+        "amount": "1745.88",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x99e4e17afac460736a2df1c1bd27e70e9c7b14e1"
+    },
+    "meta": {
+      "as_of": "2026-09-14T13:24:10Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_alphafutures",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "toptiertrader": {
+    "data": {
+      "firm_id": "toptiertrader",
+      "amount": {
+        "amount": "1172.95",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x4687c6ef3855ff79f42214a29202bb6f105b723b"
+    },
+    "meta": {
+      "as_of": "2026-09-14T17:08:40Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_toptiertrader",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "neomaaa-funds": {
+    "data": {
+      "firm_id": "neomaaa-funds",
+      "amount": {
+        "amount": "462.00",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x0f72d7f05e03d47cebc1d5a27199951abda83479"
+    },
+    "meta": {
+      "as_of": "2026-09-08T17:48:04Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_neomaaa-funds",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "yrm-prop": {
+    "data": {
+      "firm_id": "yrm-prop",
+      "amount": {
+        "amount": "17.62",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x80dc958816c2f8f83f370fb52a2b41540ba56a60"
+    },
+    "meta": {
+      "as_of": "2026-09-14T21:56:06Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_yrm-prop",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  },
+  "fxify": {
+    "data": {
+      "firm_id": "fxify",
+      "amount": {
+        "amount": "7.94",
+        "currency": "USD"
+      },
+      "token": "RiseUSD",
+      "explorer": "https://arbiscan.io/address/0x434a506c1f95a30e6f51bd37c26d3b9c1f95b702"
+    },
+    "meta": {
+      "as_of": "2026-09-14T13:26:02Z",
+      "generated_at": "2026-09-14T22:02:09.413Z",
+      "request_id": "fix_cash_fxify",
+      "source": "fixture",
+      "captured_from": "onthetape.io /api 2026-09-14"
+    }
+  }
+}
