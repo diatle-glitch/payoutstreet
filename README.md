@@ -13,3 +13,7 @@ This is not Night Circuit (`diatle-glitch/payout-street`). Do not replace that r
 Repo Settings → Pages → Deploy from a branch → `main` / `/ (root)`.
 
 Figures on the manifest are preview geometry until the live tape is wired.
+
+## Staging skyline (separate)
+
+The interactive payout district (buildings / walkers / supercars / helicopter) lives in `skyline/` on a staging branch only. It must not replace this Pages yard. See `skyline/docs/STAGING_HANDOFF.md`.

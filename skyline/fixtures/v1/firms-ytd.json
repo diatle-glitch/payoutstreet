@@ -1,0 +1,1518 @@
+{
+  "data": [
+    {
+      "id": "lucid",
+      "slug": "lucid",
+      "name": "Lucid Trading",
+      "logo_url": "/logos/lucid.png",
+      "total": {
+        "amount": "656062723.00",
+        "currency": "USD"
+      },
+      "payout_count": 263336,
+      "avg": {
+        "amount": "2491.35",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "median": null,
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-05T23:59:59.000Z",
+      "last_payout": null,
+      "mix": {
+        "rise": 0,
+        "chain": 0,
+        "discord": 100
+      },
+      "evidence": "DISCORD",
+      "note": null
+    },
+    {
+      "id": "topstep",
+      "slug": "topstep",
+      "name": "Topstep",
+      "logo_url": "/logos/topstep.png",
+      "total": {
+        "amount": "452209871.93",
+        "currency": "USD"
+      },
+      "payout_count": 197438,
+      "avg": {
+        "amount": "2290.39",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "45070.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1692.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-10T18:15:20Z",
+      "last_payout": {
+        "amount": "6464.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 0,
+        "chain": 0,
+        "discord": 100
+      },
+      "evidence": "DISCORD_BOT",
+      "note": null
+    },
+    {
+      "id": "tradeify-futures",
+      "slug": "tradeify-futures",
+      "name": "Tradeify",
+      "logo_url": "/logos/tradeify-futures.png?v=20260831tf",
+      "total": {
+        "amount": "65624954.67",
+        "currency": "USD"
+      },
+      "payout_count": 39376,
+      "avg": {
+        "amount": "1666.62",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "150000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1350.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T19:23:42Z",
+      "last_payout": {
+        "amount": "1350.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "myfundedfutures",
+      "slug": "myfundedfutures",
+      "name": "My Funded Futures",
+      "logo_url": "/logos/myfundedfutures.png",
+      "total": {
+        "amount": "26164614.75",
+        "currency": "USD"
+      },
+      "payout_count": 15919,
+      "avg": {
+        "amount": "1643.61",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "109654.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1094.38",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:55:16Z",
+      "last_payout": {
+        "amount": "1584.40",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundednext",
+      "slug": "fundednext",
+      "name": "FundedNext Futures",
+      "logo_url": "/logos/fundednext.png",
+      "total": {
+        "amount": "20655471.45",
+        "currency": "USD"
+      },
+      "payout_count": 13680,
+      "avg": {
+        "amount": "1509.90",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "44663.42",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1085.98",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:47:18Z",
+      "last_payout": {
+        "amount": "955.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "blueguardian",
+      "slug": "blueguardian",
+      "name": "Blue Guardian",
+      "logo_url": "/logos/blueguardian.png",
+      "total": {
+        "amount": "8036280.80",
+        "currency": "USD"
+      },
+      "payout_count": 3048,
+      "avg": {
+        "amount": "2636.58",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "50000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1764.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:50:11Z",
+      "last_payout": {
+        "amount": "1777.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 99,
+        "chain": 1,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundingpips",
+      "slug": "fundingpips",
+      "name": "FundingPips",
+      "logo_url": "/logos/fundingpips.png",
+      "total": {
+        "amount": "6543834.00",
+        "currency": "USD"
+      },
+      "payout_count": 3347,
+      "avg": {
+        "amount": "1955.13",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "32765.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1302.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T18:50:34Z",
+      "last_payout": {
+        "amount": "662.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "the5ers",
+      "slug": "the5ers",
+      "name": "The5ers",
+      "logo_url": "/logos/the5ers.png",
+      "total": {
+        "amount": "5257980.18",
+        "currency": "USD"
+      },
+      "payout_count": 2692,
+      "avg": {
+        "amount": "1953.19",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "76656.09",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1544.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-11T13:26:30Z",
+      "last_payout": {
+        "amount": "233.95",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundedfuturesfamily",
+      "slug": "fundedfuturesfamily",
+      "name": "Funded Futures Family",
+      "logo_url": "/logos/fundedfuturesfamily.png",
+      "total": {
+        "amount": "4036944.37",
+        "currency": "USD"
+      },
+      "payout_count": 2732,
+      "avg": {
+        "amount": "1477.65",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "7722.40",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1704.24",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T20:51:20Z",
+      "last_payout": {
+        "amount": "245.62",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "alphacapitalgroup",
+      "slug": "alphacapitalgroup",
+      "name": "Alpha Capital",
+      "logo_url": "/logos/alphacapitalgroup.png",
+      "total": {
+        "amount": "3656200.91",
+        "currency": "USD"
+      },
+      "payout_count": 2691,
+      "avg": {
+        "amount": "1358.68",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "30008.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "834.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T17:35:18Z",
+      "last_payout": {
+        "amount": "550.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "futureselite",
+      "slug": "futureselite",
+      "name": "Futures Elite",
+      "logo_url": "/logos/futureselite.png",
+      "total": {
+        "amount": "2655703.56",
+        "currency": "USD"
+      },
+      "payout_count": 1307,
+      "avg": {
+        "amount": "2031.91",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "59438.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1309.50",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T15:32:59Z",
+      "last_payout": {
+        "amount": "10000.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "e8markets",
+      "slug": "e8markets",
+      "name": "E8 Markets",
+      "logo_url": "/logos/e8markets.png",
+      "total": {
+        "amount": "2529081.00",
+        "currency": "USD"
+      },
+      "payout_count": 906,
+      "avg": {
+        "amount": "2791.48",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "33334.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1680.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T16:57:47Z",
+      "last_payout": {
+        "amount": "3841.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "goatfundedtrader",
+      "slug": "goatfundedtrader",
+      "name": "Goat Funded Trader",
+      "logo_url": "/logos/goatfundedtrader.png",
+      "total": {
+        "amount": "2260329.41",
+        "currency": "USD"
+      },
+      "payout_count": 2857,
+      "avg": {
+        "amount": "791.15",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "20000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "235.20",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:07:41Z",
+      "last_payout": {
+        "amount": "1898.86",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundedtradermarkets",
+      "slug": "fundedtradermarkets",
+      "name": "Funded Trader Markets",
+      "logo_url": "/logos/fundedtradermarkets.png",
+      "total": {
+        "amount": "1831098.14",
+        "currency": "USD"
+      },
+      "payout_count": 1290,
+      "avg": {
+        "amount": "1419.46",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "25600.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "687.28",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T20:29:39Z",
+      "last_payout": {
+        "amount": "7324.04",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 75,
+        "chain": 25,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "toponefutures",
+      "slug": "toponefutures",
+      "name": "Top One Futures",
+      "logo_url": "/logos/toponefutures.png",
+      "total": {
+        "amount": "1731661.81",
+        "currency": "USD"
+      },
+      "payout_count": 1272,
+      "avg": {
+        "amount": "1361.37",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "18000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "932.58",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:28:25Z",
+      "last_payout": {
+        "amount": "839.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "blusky-pro",
+      "slug": "blusky-pro",
+      "name": "BluSky Pro",
+      "logo_url": "/logos/blusky-pro.png",
+      "total": {
+        "amount": "1607999.17",
+        "currency": "USD"
+      },
+      "payout_count": 1467,
+      "avg": {
+        "amount": "1096.11",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "31500.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "739.84",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:48:27Z",
+      "last_payout": {
+        "amount": "2078.10",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "tradeday",
+      "slug": "tradeday",
+      "name": "TradeDay",
+      "logo_url": "/logos/tradeday.png",
+      "total": {
+        "amount": "1371566.59",
+        "currency": "USD"
+      },
+      "payout_count": 1355,
+      "avg": {
+        "amount": "1012.23",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "8000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "939.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T14:44:43Z",
+      "last_payout": {
+        "amount": "1200.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "propr",
+      "slug": "propr",
+      "name": "Propr",
+      "logo_url": "/logos/propr.png",
+      "total": {
+        "amount": "1305473.67",
+        "currency": "USD"
+      },
+      "payout_count": 2454,
+      "avg": {
+        "amount": "531.98",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "30350.61",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "141.14",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:53:35Z",
+      "last_payout": {
+        "amount": "68.66",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 0,
+        "chain": 100,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "phidiaspropfirm",
+      "slug": "phidiaspropfirm",
+      "name": "Phidias Prop Firm",
+      "logo_url": "/logos/phidiaspropfirm.png",
+      "total": {
+        "amount": "1223173.64",
+        "currency": "USD"
+      },
+      "payout_count": 753,
+      "avg": {
+        "amount": "1624.40",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "18800.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T18:03:57Z",
+      "last_payout": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "holaprime",
+      "slug": "holaprime",
+      "name": "Hola Prime",
+      "logo_url": "/logos/holaprime.png",
+      "total": {
+        "amount": "1207386.29",
+        "currency": "USD"
+      },
+      "payout_count": 529,
+      "avg": {
+        "amount": "2282.39",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "41975.81",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1500.26",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T15:58:31Z",
+      "last_payout": {
+        "amount": "3280.91",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "alphatraderfirm",
+      "slug": "alphatraderfirm",
+      "name": "Alpha Trader Firm",
+      "logo_url": "/logos/alphatraderfirm.png",
+      "total": {
+        "amount": "1205558.02",
+        "currency": "USD"
+      },
+      "payout_count": 838,
+      "avg": {
+        "amount": "1438.61",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "100000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "225.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T17:35:42Z",
+      "last_payout": {
+        "amount": "178.74",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundedseat",
+      "slug": "fundedseat",
+      "name": "FundedSeat",
+      "logo_url": "/logos/fundedseat.png",
+      "total": {
+        "amount": "1083472.10",
+        "currency": "USD"
+      },
+      "payout_count": 786,
+      "avg": {
+        "amount": "1378.46",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "13158.48",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1174.12",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:07:29Z",
+      "last_payout": {
+        "amount": "900.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "alphafutures",
+      "slug": "alphafutures",
+      "name": "Alpha Futures",
+      "logo_url": "/logos/alphafutures.png",
+      "total": {
+        "amount": "1069052.93",
+        "currency": "USD"
+      },
+      "payout_count": 653,
+      "avg": {
+        "amount": "1637.14",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "16698.75",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1142.10",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T16:35:26Z",
+      "last_payout": {
+        "amount": "1028.70",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "ylostrading",
+      "slug": "ylostrading",
+      "name": "Ylos Trading",
+      "logo_url": "/logos/ylostrading.png",
+      "total": {
+        "amount": "968619.18",
+        "currency": "USD"
+      },
+      "payout_count": 543,
+      "avg": {
+        "amount": "1783.83",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "23870.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1534.60",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T18:05:52Z",
+      "last_payout": {
+        "amount": "3970.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "goatfundedfutures",
+      "slug": "goatfundedfutures",
+      "name": "Goat Funded Futures",
+      "logo_url": "/logos/goatfundedfutures.png",
+      "total": {
+        "amount": "774697.08",
+        "currency": "USD"
+      },
+      "payout_count": 535,
+      "avg": {
+        "amount": "1448.03",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "14850.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1568.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T14:04:14Z",
+      "last_payout": {
+        "amount": "2000.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fxify",
+      "slug": "fxify",
+      "name": "FXIFY",
+      "logo_url": "/logos/fxify.png",
+      "total": {
+        "amount": "678703.13",
+        "currency": "USD"
+      },
+      "payout_count": 498,
+      "avg": {
+        "amount": "1362.86",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "21810.40",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "630.26",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T13:59:38Z",
+      "last_payout": {
+        "amount": "3962.28",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "fundedhive",
+      "slug": "fundedhive",
+      "name": "FundedHive",
+      "logo_url": "/logos/fundedhive.png",
+      "total": {
+        "amount": "498253.16",
+        "currency": "USD"
+      },
+      "payout_count": 1236,
+      "avg": {
+        "amount": "403.12",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "1600.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "480.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T18:53:23Z",
+      "last_payout": {
+        "amount": "960.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 0,
+        "chain": 100,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "legends-trading",
+      "slug": "legends-trading",
+      "name": "Legends Trading",
+      "logo_url": "/logos/legends-trading.png",
+      "total": {
+        "amount": "396028.49",
+        "currency": "USD"
+      },
+      "payout_count": 238,
+      "avg": {
+        "amount": "1663.99",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "18647.02",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1080.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T17:22:58Z",
+      "last_payout": {
+        "amount": "960.30",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "aquafunded",
+      "slug": "aquafunded",
+      "name": "AquaFunded",
+      "logo_url": "/logos/aquafunded.png",
+      "total": {
+        "amount": "391590.03",
+        "currency": "USD"
+      },
+      "payout_count": 173,
+      "avg": {
+        "amount": "2263.53",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "11446.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1223.87",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T12:29:18Z",
+      "last_payout": {
+        "amount": "239.40",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "instantfunding",
+      "slug": "instantfunding",
+      "name": "Instant Funding",
+      "logo_url": "/logos/instantfunding.png",
+      "total": {
+        "amount": "360306.68",
+        "currency": "USD"
+      },
+      "payout_count": 253,
+      "avg": {
+        "amount": "1424.14",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "9189.60",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "675.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T12:57:39Z",
+      "last_payout": {
+        "amount": "628.42",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "orionfunded",
+      "slug": "orionfunded",
+      "name": "Orion Funded",
+      "logo_url": "/logos/orionfunded.png",
+      "total": {
+        "amount": "347369.64",
+        "currency": "USD"
+      },
+      "payout_count": 314,
+      "avg": {
+        "amount": "1106.27",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "14984.45",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "743.45",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-13T10:40:09Z",
+      "last_payout": {
+        "amount": "1239.60",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "toponetrader",
+      "slug": "toponetrader",
+      "name": "Top One Trader",
+      "logo_url": "/logos/toponetrader.png",
+      "total": {
+        "amount": "334102.20",
+        "currency": "USD"
+      },
+      "payout_count": 283,
+      "avg": {
+        "amount": "1180.57",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "12633.96",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "571.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T19:13:20Z",
+      "last_payout": {
+        "amount": "3324.16",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "elite-trader-funding",
+      "slug": "elite-trader-funding",
+      "name": "Elite Trader Funding",
+      "logo_url": "/logos/elite-trader-funding.png",
+      "total": {
+        "amount": "279527.22",
+        "currency": "USD"
+      },
+      "payout_count": 294,
+      "avg": {
+        "amount": "950.77",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "4500.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1000.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T20:16:41Z",
+      "last_payout": {
+        "amount": "710.40",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "toptiertrader",
+      "slug": "toptiertrader",
+      "name": "TX3 Funding",
+      "logo_url": "/logos/toptiertrader.png",
+      "total": {
+        "amount": "194993.84",
+        "currency": "USD"
+      },
+      "payout_count": 76,
+      "avg": {
+        "amount": "2565.71",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "32000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1800.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T21:55:18Z",
+      "last_payout": {
+        "amount": "900.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "aquafutures",
+      "slug": "aquafutures",
+      "name": "AquaFutures",
+      "logo_url": "/logos/aquafutures.png",
+      "total": {
+        "amount": "156628.77",
+        "currency": "USD"
+      },
+      "payout_count": 98,
+      "avg": {
+        "amount": "1598.25",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "8065.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1315.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-11T16:55:24Z",
+      "last_payout": {
+        "amount": "2910.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "savius",
+      "slug": "savius",
+      "name": "Savius",
+      "logo_url": "/logos/savius.png",
+      "total": {
+        "amount": "86572.23",
+        "currency": "USD"
+      },
+      "payout_count": 44,
+      "avg": {
+        "amount": "1967.55",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "5292.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1764.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-10T17:29:33Z",
+      "last_payout": {
+        "amount": "1764.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "tradeify-247",
+      "slug": "tradeify-247",
+      "name": "Tradeify 247",
+      "logo_url": "/logos/tradeify-247.png?v=20260831tf",
+      "total": {
+        "amount": "53917.49",
+        "currency": "USD"
+      },
+      "payout_count": 22,
+      "avg": {
+        "amount": "2450.80",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "9920.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "743.02",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T09:54:54Z",
+      "last_payout": {
+        "amount": "606.40",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "tradersyard",
+      "slug": "tradersyard",
+      "name": "TradersYard",
+      "logo_url": "/logos/tradersyard.png",
+      "total": {
+        "amount": "21149.44",
+        "currency": "USD"
+      },
+      "payout_count": 9,
+      "avg": {
+        "amount": "2349.94",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "8250.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1761.60",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-14T14:26:41Z",
+      "last_payout": {
+        "amount": "3662.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "yrm-prop",
+      "slug": "yrm-prop",
+      "name": "YRM Prop",
+      "logo_url": "/logos/yrm-prop.png",
+      "total": {
+        "amount": "16896.67",
+        "currency": "USD"
+      },
+      "payout_count": 18,
+      "avg": {
+        "amount": "938.70",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "3000.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "800.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-08-26T16:00:17Z",
+      "last_payout": {
+        "amount": "412.74",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "neomaaa-funds",
+      "slug": "neomaaa-funds",
+      "name": "Neom AAA Funded",
+      "logo_url": "/logos/neomaaa-funds.png",
+      "total": {
+        "amount": "15298.44",
+        "currency": "USD"
+      },
+      "payout_count": 15,
+      "avg": {
+        "amount": "1019.90",
+        "currency": "USD"
+      },
+      "largest": {
+        "amount": "1380.00",
+        "currency": "USD"
+      },
+      "median": {
+        "amount": "1000.00",
+        "currency": "USD"
+      },
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": "2026-09-08T18:11:26Z",
+      "last_payout": {
+        "amount": "820.00",
+        "currency": "USD"
+      },
+      "mix": {
+        "rise": 100,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    },
+    {
+      "id": "traderscale",
+      "slug": "traderscale",
+      "name": "TraderScale",
+      "logo_url": "/logos/traderscale.png",
+      "total": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "payout_count": 0,
+      "avg": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "largest": null,
+      "median": null,
+      "growth_pct": 0,
+      "rank_delta": 0,
+      "last_payout_at": null,
+      "last_payout": null,
+      "mix": {
+        "rise": 0,
+        "chain": 0,
+        "discord": 0
+      },
+      "evidence": null,
+      "note": null
+    }
+  ],
+  "meta": {
+    "as_of": "2026-09-14T22:02:09.411Z",
+    "generated_at": "2026-09-14T22:02:09.411Z",
+    "request_id": "fix_firms_ytd",
+    "source": "fixture",
+    "captured_from": "onthetape.io /api 2026-09-14",
+    "window": "ytd"
+  },
+  "pagination": {
+    "next_cursor": null,
+    "limit": 41
+  }
+}
